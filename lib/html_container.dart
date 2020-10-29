@@ -61,7 +61,7 @@ class HtmlContainer {
       } else {
         contents.add(Text(
           (node as HtmlNode).text,
-          style: TextStyle(fontSize: 12),
+          style: TextStyle(fontSize: 19),
         ));
       }
     });
