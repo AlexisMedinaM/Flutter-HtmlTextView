@@ -29,7 +29,7 @@ class HtmlNode {
       this.href,
       this.parent,
       this.fontFamily, //Utilities.interstateLight,
-      this.fontSize = 16.0,
+      this.fontSize = 19.0,
       this.fontFamilyBold, // = Utilities.interstateBold,
       this.textAttributes,
       this.hrefColor,
