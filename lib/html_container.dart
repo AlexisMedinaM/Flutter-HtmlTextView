@@ -176,7 +176,7 @@ class HtmlContainer {
   double getFontSize() {
     switch (type) {
       case P:
-        return 16.0;
+        return 19.0;
       case H6:
         return 11.5;
       case H5:
